@@ -1,0 +1,9 @@
+{
+    "port" : 8008,
+    "interval" : 10,
+    "ezr" : {
+        "EG" : "EZR01A3AF.lan",
+        "OG1" : "EZR01A4D1.lan",
+        "OG2" : "EZR01A4CF.lan"
+    }
+}

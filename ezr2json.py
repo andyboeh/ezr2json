@@ -1,4 +1,6 @@
 #!/usr/bin/env python
+# (c) 2021 Andreas Böhler
+# License: Apache 2.0
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 from functools import partial
